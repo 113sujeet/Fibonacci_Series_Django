@@ -1,6 +1,9 @@
 # Fibonacci_Series_Django
 In thios project the front-end shows for the taking a number shows the Nth number of Fibonacci Series Number.
 
+#Unzip the file django-fibonacci.zip
+Go to djnago_fibonacci folder
+
 #Install The requirements of this project
 Create Virtual environmentfor installation of dependancies.
 >>virtualenv name_of_virtual_env
